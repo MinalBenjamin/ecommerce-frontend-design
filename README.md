@@ -1,4 +1,6 @@
 # ecommerce-frontend-design
-This is my first Git Repository.
+This is my first offical Repository.
 <br>
-Author-Minal Benjamin
+Author-Minal Benjamin.
+<br>
+
